@@ -2,6 +2,7 @@
 Main Repository for all working code for Team 39s EE175 Senior Design Project. The project's goal is to design and test a tele-op/autonomous surveillance/security vehicle for searching and tracking suspicious and criminal activity.
 
 # HOW TO RUN THIS PROJECT STEP-BY-STEP TUTORIAL
+[ ON RASPBERRY PI ]
 1. Open Putty -> rjava005@raspberrypi.local
 
 2. Start Camera Stream:
